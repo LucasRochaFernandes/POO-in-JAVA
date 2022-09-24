@@ -1,0 +1,98 @@
+Venda: 1
+Date: 2020-03-02T00:00:02.000Z
+User: 
+     Name: john doe
+     Email: john@gmail.com
+Products: 
+  Name: Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops
+   Quantity: 4
+-
+  Name: Mens Casual Premium Slim Fit T-Shirts 
+   Quantity: 1
+-
+  Name: Mens Cotton Jacket
+   Quantity: 6
+-
+Invoice Total: 798.04
+-----------------
+Venda: 2
+Date: 2020-01-02T00:00:02.000Z
+User: 
+     Name: john doe
+     Email: john@gmail.com
+Products: 
+  Name: Mens Casual Premium Slim Fit T-Shirts 
+   Quantity: 4
+-
+  Name: Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops
+   Quantity: 10
+-
+  Name: John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet
+   Quantity: 2
+-
+Invoice Total: 2578.7
+-----------------
+Venda: 3
+Date: 2020-03-01T00:00:02.000Z
+User: 
+     Name: david morrison
+     Email: morrison@gmail.com
+Products: 
+  Name: Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops
+   Quantity: 2
+-
+  Name: WD 2TB Elements Portable External Hard Drive - USB 3.0 
+   Quantity: 1
+-
+Invoice Total: 283.9
+-----------------
+Venda: 4
+Date: 2020-01-01T00:00:02.000Z
+User: 
+     Name: kevin ryan
+     Email: kevin@gmail.com
+Products: 
+  Name: Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops
+   Quantity: 4
+-
+Invoice Total: 439.8
+-----------------
+Venda: 5
+Date: 2020-03-01T00:00:02.000Z
+User: 
+     Name: kevin ryan
+     Email: kevin@gmail.com
+Products: 
+  Name: White Gold Plated Princess
+   Quantity: 1
+-
+  Name: Pierced Owl Rose Gold Plated Stainless Steel Double
+   Quantity: 1
+-
+Invoice Total: 20.98
+-----------------
+Venda: 6
+Date: 2020-03-01T00:00:02.000Z
+User: 
+     Name: don romer
+     Email: don@gmail.com
+Products: 
+  Name: SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s
+   Quantity: 2
+-
+  Name: WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive
+   Quantity: 3
+-
+Invoice Total: 560.0
+-----------------
+Venda: 6
+Date: 2020-03-01T00:00:02.000Z
+User: 
+     Name: william hopkins
+     Email: william@gmail.com
+Products: 
+  Name: MBJ Women's Solid Short Sleeve Boat Neck V 
+   Quantity: 1
+-
+Invoice Total: 9.85
+-----------------
